@@ -7,4 +7,5 @@ https://chat.openai.com/c/3e372ffb-3332-49e7-8a27-9d3d3215de06
 
 link to this folder
 
-/c/Users/glads/Downloads/BROWN-CNC-GROUP
+
+/c/Users/glads/Downloads/BROWN-CNC-GROUP-upgrade
